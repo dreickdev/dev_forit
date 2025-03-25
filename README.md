@@ -52,5 +52,5 @@ npm run dev
 ## Videos de Referencia
 - Para una mejor comprensión de la configuración y ejecución del proyecto, consulta los siguientes videos:
 
-## Video 1: Configuración del Backend
-## Video 2: Configuración del Frontend
+## Video 1: Referencias del reto
+## Video 2: Mejoras Bonus del reto (codigo en repositorio  https://github.com/dreickdev/CRUD_sqlite3_forit_test.git  )
